@@ -1,11 +1,11 @@
 export interface Pokemon {
-  name: string;
+  name: string
 }
 
 export interface PokemonData {
-  pokemons: Pokemon[];
+  pokemons: Pokemon[]
 }
 
 export interface PokemonVars {
-  limit: number;
+  limit: number
 }
