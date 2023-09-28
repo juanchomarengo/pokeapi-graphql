@@ -8,6 +8,6 @@ const theme = {
     body: 'Arial, sans-serif',
     heading: 'Helvetica, sans-serif',
   },
-};
+}
 
-export default theme;
+export default theme
